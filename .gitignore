@@ -1,0 +1,19 @@
+# ---------- FRONTEND (React) ----------
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.env
+
+# ---------- BACKEND (Spring Boot) ----------
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/*.log
+backend/.env
+
+# ---------- COMMON ----------
+.DS_Store
+.idea/
+.vscode/
+*.iml
